@@ -2,7 +2,7 @@
 #V.1.0
 #By ____Zcorp_____
 # issoufzanne52@gmail.com
-# Licence : Libre === M.F.C.I.Y.F.C 
+# Licence : Libre === M.F.C.I.Y.F.C == Ton code c'est mon code 
 # Le texte pour le traçage est join avec le code ci ! 
 
 
